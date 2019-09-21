@@ -1,0 +1,3 @@
+mustard(芥末)
+grocer(食物杂货店)
+cash register(收银机)

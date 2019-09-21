@@ -1,0 +1,21 @@
+cupboard
+shelf
+worktop
+cooker
+microware
+sink
+fridge
+freezer
+taps
+wastebin(废物箱；垃圾箱)
+air conditioning
+washing up liquid
+saucepan
+frying pan
+cloth
+teapot
+coffee maker
+kitchen paper/roll
+saucer
+bowl
+

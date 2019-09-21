@@ -1,0 +1,31 @@
+office worker
+computer programmer
+veterinarian(兽医)
+street vendor
+factory worker
+miner
+teacher
+real estate agent(房地产经纪人)
+bellboy((旅馆的)行李员)
+gas station attendant
+speaker
+delivery man
+butcher
+pharmacist(药剂师,药店)
+receptionist
+politician
+tour guide
+entrepreneur(创业者，企业家(尤指涉及财务风险的))
+ballet dancer
+astonaut
+judge
+customs officer
+lawyer
+cashier(出纳员)
+taxi driver
+plumber(水暖工;管子工;铅管工)
+musician
+chef
+baker
+artist
+

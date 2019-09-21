@@ -1,0 +1,8 @@
+toast
+coffe
+cereal(谷类植物;谷物;(常加牛奶作早餐用的)谷类食物)
+jam
+bread
+butter
+cheese
+

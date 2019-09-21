@@ -1,0 +1,13 @@
+shirt
+belt
+sweater
+scarf
+socks
+gloves
+patns/trousers
+sandals
+formar shoes
+dress
+high heels
+coat
+jacket
